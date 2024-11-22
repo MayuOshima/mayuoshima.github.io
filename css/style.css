@@ -3428,7 +3428,7 @@ figure.highlight .shrink-line:hover::before {
   width: 100%;
   height: 100vh;
   overflow: hidden;
-  background-image: url("images/bg.svg");
+  background-image: url("~/Documents/blog/blog/mayuoshima.github.io/themes/keep/source/images/bg.svg");
   background-position-x: center;
   background-position-y: center;
   background-size: cover;
